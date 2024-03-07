@@ -1,16 +1,15 @@
-### Hi there 👋
+```js
+import Desenvolvedora from "nazare4lmeida";
 
-<!--
-**nazare4lmeida/nazare4lmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedora {
+  nome = "Nazaré";
+  area = "Fullstack Developer e Cybersecurity Analyst";
+  local = "Fortaleza, Ceará, Brasil";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedora {
+  linguagens = ["JavaScript, Python, Java"];
+  escolas = ["Reprograma, DIO, Alura, DevMedia"];
+  certificados = ["Back End Developer, Front End Developer, Cybersecurity"];
+}
+```
