@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedora {
 
 class Skills extends Desenvolvedora {
   linguagens = ["JavaScript, Python, Java, C"];
-  escolas = ["Reprograma, DIO, Alura, DevMedia"];
-  certificados = ["Back End Developer, Front End Developer, Cybersecurity"];
+  escolas = ["Reprograma, DIO, Alura, DevMedia, Santander, Estácio"];
+  certificados = ["Back End Developer, Front End Developer, Cybersecurity, Análise e Desenvolvimento de Sistemas"];
 }
 ```
