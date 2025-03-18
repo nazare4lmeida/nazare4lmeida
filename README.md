@@ -2,7 +2,7 @@
 import Desenvolvedora from "nazare4lmeida";
 
 class SobreMim extends Desenvolvedora {
-  nome = "Nazaré";
+  nome = "Nazaré Almeida";
   area = "Fullstack Developer e Cybersecurity Analyst";
   local = "Fortaleza, Ceará, Brasil";
 }
